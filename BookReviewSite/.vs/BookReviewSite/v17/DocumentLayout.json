@@ -1,0 +1,778 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP dot net final Term\\BookReviewSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\services\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\services\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\services\\bookrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|d:\\asp dot net final term\\bookreviewsite\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\interfaces\\ireviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ireviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\interfaces\\ivoterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ivoterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\reviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\reviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\recommendationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\recommendationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\interfaces\\irecommendationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irecommendationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\tables\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\reviewerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\reviewerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\authorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\authorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\interfaces\\iauthorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauthorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\tables\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\tables\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\brscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\brscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\voterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\voterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\tables\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\tables\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\migrations\\202501211657566_none.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211657566_none.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\migrations\\202501211403172_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211403172_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\migrations\\202501201802598_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501201802598_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D56070-BCE0-4566-8836-F638FB0453F9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bll\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF784DD-589A-4D4B-9D0A-91852696E364}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|D:\\ASP dot net final Term\\BookReviewSite\\bookreviewsite\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD4C68BB-C7BB-4788-9CF0-2383E23159F2}|BookReviewSite\\BookReviewSite.csproj|solutionrelative:bookreviewsite\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "BookReviewSite\\Controllers\\RecommendationController.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\RecommendationController.cs",
+              "RelativeToolTip": "BookReviewSite\\Controllers\\RecommendationController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:29:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:09:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IBookRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IBookRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IBookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:39:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReviewRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IReviewRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IReviewRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IReviewRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IReviewRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:06:46.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:34:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVoteRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IVoteRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IVoteRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IVoteRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IVoteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:44:43.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Recommendation.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Recommendation.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Recommendation.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Recommendation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:01:33.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRecommendationService.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\BookRecommendationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookRecommendationService.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\BookRecommendationService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookRecommendationService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:25:01.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoteService.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\VoteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\VoteService.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\VoteService.cs",
+              "RelativeToolTip": "BLL\\Services\\VoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:46:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookService.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:03:40.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:33:18.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\ReviewRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ReviewRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\ReviewRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ReviewRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:14:19.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:37:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "BookReviewSite\\Controllers\\VoteController.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "BookReviewSite\\Controllers\\VoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:46:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewerProfileDto.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\ReviewerProfileDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ReviewerProfileDto.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\ReviewerProfileDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ReviewerProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:04:22.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:17:58.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:22:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecommendationRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\RecommendationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RecommendationRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\RecommendationRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RecommendationRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:26:04.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRecommendationRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IRecommendationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRecommendationRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IRecommendationRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRecommendationRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:25:40.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ReviewDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ReviewDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:20:35.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookReviewSite\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookReviewSite\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:45:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecommendationDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\RecommendationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RecommendationDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\RecommendationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RecommendationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:21:26.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthorRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IAuthorRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuthorRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Interfaces\\IAuthorRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAuthorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:48:12.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthorService.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:47:45.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\ReviewService.cs",
+              "RelativeToolTip": "BLL\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAzwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:06:16.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Author.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Author.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Author.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Author.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:57:59.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BookDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:19:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookReviewSite\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookReviewSite\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:01:49.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "BookReviewSite\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "BookReviewSite\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:05:33.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "BookReviewSite\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "BookReviewSite\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:47:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\AuthorRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AuthorRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\AuthorRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AuthorRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:49:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BRSContext.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\BRSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\BRSContext.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\BRSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\BRSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:54:59.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Book.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Book.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Book.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Book.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:57:39.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VoteRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\VoteRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\VoteRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\VoteRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\VoteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:45:18.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Review.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Review.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Review.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Review.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:58:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VoteDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\VoteDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\VoteDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\VoteDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\VoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:21:01.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:35:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Vote.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Vote.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\Vote.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Vote.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:01:04.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:40:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:46:21.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "202501211657566_none.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\202501211657566_none.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211657566_none.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\202501211657566_none.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211657566_none.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:57:59.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "202501211403172_AddUserRole.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\202501211403172_AddUserRole.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211403172_AddUserRole.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\202501211403172_AddUserRole.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211403172_AddUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:03:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:57:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AuthorDTO.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BLL\\DTOs\\AuthorDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:19:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "202501201802598_test1.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\202501201802598_test1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501201802598_test1.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\202501201802598_test1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501201802598_test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:03:12.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:02:32.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Web.config",
+              "RelativeDocumentMoniker": "BookReviewSite\\Web.config",
+              "ToolTip": "D:\\ASP dot net final Term\\BookReviewSite\\BookReviewSite\\Web.config",
+              "RelativeToolTip": "BookReviewSite\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T17:56:09.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
